@@ -24,8 +24,8 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 ## Desktop (please complete the following information):
- - OS: [e.g. iOS, Windows 10, etc]
- - Version [e.g. v0.21.02-beta-2]
+ - OS: [e.g. Windows 10, Linux: Debian Buster (KDE Plasma 5), etc]
+ - pmdbs2X Version [e.g. v0.21.02-beta-2]
 
 ## Error message
 If there was a specific error message please add it here.
