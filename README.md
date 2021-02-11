@@ -1,2 +1,5 @@
 # pmdbs2-testing
-alpha testing of our password manager
+_Repository for alpha testing and bug tracking of our password manager_
+
+---
+## Installation
