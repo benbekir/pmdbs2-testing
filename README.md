@@ -7,7 +7,7 @@ _Repository for alpha testing and bug tracking of our password manager_
 1. Go to the [Releases page](https://github.com/frederik-hoeft/pmdbs2-testing/releases) and download the latest binaries for your system.
 2. Unzip the binaries using your favourite tool.
 3. (Linux and OSX only) In a terminal: you may need to make the binary executable using `chmod +x pmdbs2X`
-4. Execute `pmdbs2X(.exe)`
+4. Double click `pmdbs2X.exe` or on OSX and Linux in a terminal type: `./pmdbs2X`
 
 ---
 
